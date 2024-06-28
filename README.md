@@ -1,3 +1,5 @@
+![image](https://github.com/jatinagwal/ondevice-gemini-chrome-extension/assets/86041929/8938346c-a4b5-4eb6-a483-fe3d7a691c47)
+
 ## NOTE:
 You need to have Chrome Canary 128 or above for this.
 ## Why I Built this?
